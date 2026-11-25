@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100">
+  <g id="bg">
+    <rect width="160" height="100" fill="#191919"/>
+  </g>
+  <g id="_图层_1" data-name="图层 1">
+    <g>
+      <line x1="8" y1="50" x2="9.5" y2="50" fill="none" stroke="#363636"/>
+      <line x1="13.4167" y1="50" x2="148.5417" y2="50" fill="none" stroke="#363636" stroke-dasharray="0 0 2.9375 3.9167"/>
+      <line x1="150.5" y1="50" x2="152" y2="50" fill="none" stroke="#363636"/>
+    </g>
+    <g>
+      <line x1="80" y1="8" x2="80" y2="9.5" fill="none" stroke="#363636"/>
+      <line x1="80" y1="13.5" x2="80" y2="88.5" fill="none" stroke="#363636" stroke-dasharray="0 0 3 4"/>
+      <line x1="80" y1="90.5" x2="80" y2="92" fill="none" stroke="#363636"/>
+    </g>
+    <rect x="23.3688" y="15" width="113.2624" height="70" fill="none" stroke="#eee" stroke-width="1.4"/>
+    <line x1="93.3688" y1="15" x2="93.3688" y2="85" fill="none" stroke="#eee" stroke-width="1.4"/>
+    <line x1="93.3688" y1="58.2624" x2="136.6312" y2="58.2624" fill="none" stroke="#eee" stroke-width="1.4"/>
+    <line x1="120.1064" y1="58.2624" x2="120.1064" y2="85" fill="none" stroke="#eee" stroke-width="1.4"/>
+  </g>
+</svg>

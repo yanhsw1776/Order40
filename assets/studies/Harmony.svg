@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100">
+  <g id="bg">
+    <rect width="160" height="100" fill="#191919"/>
+  </g>
+  <g id="_图层_1" data-name="图层 1">
+    <g>
+      <line x1="8" y1="50" x2="9.5" y2="50" fill="none" stroke="#363636"/>
+      <line x1="13.42" y1="50" x2="148.54" y2="50" fill="none" stroke="#363636" stroke-dasharray="0 0 2.94 3.92"/>
+      <line x1="150.5" y1="50" x2="152" y2="50" fill="none" stroke="#363636"/>
+    </g>
+    <g>
+      <line x1="80" y1="8" x2="80" y2="9.5" fill="none" stroke="#363636"/>
+      <line x1="80" y1="13.5" x2="80" y2="88.5" fill="none" stroke="#363636" stroke-dasharray="0 0 3 4"/>
+      <line x1="80" y1="90.5" x2="80" y2="92" fill="none" stroke="#363636"/>
+    </g>
+    <circle cx="48" cy="50" r="30" fill="#f04444" opacity=".72"/>
+    <circle cx="80" cy="50" r="30" fill="#c98484" opacity=".75"/>
+    <circle cx="112" cy="50" r="30" fill="#d9cdcd" opacity=".8"/>
+  </g>
+</svg>
